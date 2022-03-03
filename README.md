@@ -48,9 +48,9 @@
 
 ## FrameWorks
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=90ADC6)
+![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=90ADC6)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=90ADC6)
 
 
 ## Databases
