@@ -60,7 +60,7 @@
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=prostgres&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=prostgresql&logoColor=white&color=ff471a)
 
 <br/>
 
