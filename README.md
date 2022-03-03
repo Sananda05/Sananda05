@@ -91,7 +91,7 @@
 </a>
   
 <a href="https://github.com/Sananda05">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sananda05&count_private=true&show_icons=true&theme=dark&line_height=27"  alt="Github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&show_icons=true&theme=dark&line_height=27"  alt="Github stats" height="220px" />
 </a> 
 
 <br/>
