@@ -52,7 +52,7 @@
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Svelte&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 
 
 ## 🔧 Databases
@@ -60,7 +60,7 @@
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff471a)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/Database-Postgress-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=prostgres&logoColor=white&color=ff471a)
 
 <br/>
 
