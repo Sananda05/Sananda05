@@ -21,10 +21,8 @@
 ### Software Engineering Student
 <!-- - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>-->
 
-- I’m currently working on my Academic Project :grin:
-
-<img align="right" style="width:20rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
+- I’m currently working on my Academic Project 
+- 
 - I’m looking to collaborate on **React Native**
 
 - I’m looking to collaborate with other Developers 
