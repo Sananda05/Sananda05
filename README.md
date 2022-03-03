@@ -86,12 +86,12 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<a href="https://github.com/Ibtid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtid&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="220px"/>
+<a href="https://github.com/Sananda05">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sananda05&show_icons=true&theme=dark&langs_count=4&count_private=true&card_width=280" height="220px"/>
 </a>
   
-<a href="https://github.com/Ibtid">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ibtid&count_private=true&show_icons=true&theme=dark&line_height=27"  alt="Ibtid's github stats" height="220px" />
+<a href="https://github.com/Sananda05">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sananda05&count_private=true&show_icons=true&theme=dark&line_height=27"  alt="Github stats" height="220px" />
 </a> 
 
 <br/>
