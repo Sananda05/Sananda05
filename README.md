@@ -55,10 +55,10 @@
 
 ## Databases
 
-![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ff471a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=prostgresql&logoColor=white&color=ff471a)
+![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=00B9AE)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00B9AE)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=00B9AE)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=prostgresql&logoColor=white&color=00B9AE)
 
 <br/>
 
