@@ -71,9 +71,9 @@
 </a>  
 
 
-<a href="https://github.com/Ibtid/teamup">
+<a href="https://github.com/Sananda05/BookStoreApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=teamup&theme=dark" />
+  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda&repo=BookStoreApp&theme=dark" />
 </a>
 
 <a href="https://github.com/Ibtid/Your-place-react">
