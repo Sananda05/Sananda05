@@ -76,9 +76,9 @@
   <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda05&repo=BookStoreApp&theme=dark" />
 </a>
 
-<a href="https://github.com/Ibtid/Your-place-react">
+<a href="https://github.com/Ibtid/Have-E-Art">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Your-place-react&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Have-E-Art&theme=dark" />
 </a>
 
 <Br>
