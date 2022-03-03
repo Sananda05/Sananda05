@@ -65,9 +65,9 @@
 <br/>
 
 ## Some of my Projects! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
-<a href="https://github.com/Ibtid/Horek-Rokom">
+<a href="https://github.com/Sananda05/CheckIT">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibtid&repo=Horek-Rokom&theme=dark" />
+  <img align="center" margin="1rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda05&repo=CheckIT&theme=dark" />
 </a>  
 
 
