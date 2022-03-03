@@ -22,7 +22,7 @@
 <!-- - 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>-->
 
 - I’m currently working on my Academic Project 
-- 
+
 - I’m looking to collaborate on **React Native**
 
 - I’m looking to collaborate with other Developers 
